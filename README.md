@@ -21,7 +21,6 @@ SHOW DATABASES serve para mostrar todos os bancos de dados aos quais o usuário 
 O comando USE serve para selecionar um banco de dados para você trabalhar nele.
 
 
-
 mysql -u root: entra no MySQL usando o usuário root.
 CREATE DATABASE: cria um novo banco de dados.
 SHOW DATABASES: mostra os bancos de dados existentes.
@@ -29,6 +28,18 @@ USE: seleciona o banco de dados que será utilizado.
 DESC: mostra a estrutura de uma tabela.
 INSERT INTO: adiciona dados em uma tabela.
 SELECT: consulta e mostra dados de uma tabela.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
