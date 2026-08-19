@@ -16,7 +16,8 @@ Por exemplo:
 CREATE DATABASE escola;
 
 
-<img <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a152c53e-4a2e-4a17-8699-8c67ee53ae79" />
+
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a152c53e-4a2e-4a17-8699-8c67ee53ae79" />
 
 
 
