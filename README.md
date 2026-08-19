@@ -16,9 +16,7 @@ Por exemplo:
 CREATE DATABASE escola;
 
 
-<img = https://chatgpt.com/backend-api/estuary/content?id=file_000000008e1c820eaccfa46c06458f9f&ts=496432&p=fs&cid=1&sig=3eba00b80502212bc76551118439b6c6a5b0d42ffe7ae02f9ea570221fa932ad&v=0 .>
-
-
+<img <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a152c53e-4a2e-4a17-8699-8c67ee53ae79" />
 
 
 
